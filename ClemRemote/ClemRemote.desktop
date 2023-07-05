@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=ClemRemote
+Exec=//opt/apps/org.deepin.ClemRemote/files/bin/ClemRemote
+Icon=ClemRemote
+Comment=Clementine Remote
+Terminal=true
+Categories=Network;
+X-AppImage-Version=9759a7c
