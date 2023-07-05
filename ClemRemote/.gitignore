@@ -1,4 +1,8 @@
 squashfs-root
 binaries
+ClemRemote
+linglong-package-examples
+ClemRemote_v1.2-x86_64.AppImage
+ClemRemote.desktop
 .linglong-target
 io.github.mgrojo.Play2048
