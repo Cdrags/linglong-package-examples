@@ -1,10 +1,11 @@
 package:
-  id: io.github.photo-tool
-  name: 'aphototoollibre'
-  version: 1.0.5
+  id: io.github.tageditor
+  name: tageditor
+  version: 3.7.1
   kind: app
   description: |
-    photo tool.
+    A tag editor with Qt GUI and command-line interface. Supports MP4 (iTunes), ID3, Vorbis, Opus, FLAC and Matroska.
+
 runtime:
   id: org.deepin.Runtime
   version: 23.0.0
@@ -19,3 +20,4 @@ build:
       make
     install: |
       make install
+      
