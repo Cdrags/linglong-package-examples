@@ -11,6 +11,10 @@ Check Makefile and linglong.yaml for details.
 
   <https://github.com/mgrojo/play_2048>
 
+- [altair](./io.github.altair-graphql.altair)
+
+  <https://github.com/altair-graphql/altair>
+
 # Project struct
 
 Each folder contains
@@ -52,3 +56,9 @@ Each folder should contain:
 # Run
 
 `ll-builder run`
+
+# Projects
+
+- [cryptr](./io.github.adobe.Cryptr)
+
+  <https://github.com/adobe/cryptr>
